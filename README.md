@@ -1,11 +1,6 @@
-<<<<<<< HEAD
 # Camgong
 A study application with face recognition function(2020.10.12 ~ 2020.11.20)
-<<<<<<< HEAD
-=======
-=======
 
->>>>>>> 48a773081c450fc7c11b1f27858fed6df52210f3
 ## 🤳스터디 어플
 
 공부하는 시간을 기록하고 공부하는 나를 스스로 감시하는 어플
@@ -104,7 +99,3 @@ A study application with face recognition function(2020.10.12 ~ 2020.11.20)
    - 시간표 기능(공부내역을 보여줌)
    ```
 
-<<<<<<< HEAD
->>>>>>> 68b69483a32c0114c39bc8ea6bf9a3a494986879
-=======
->>>>>>> 48a773081c450fc7c11b1f27858fed6df52210f3
