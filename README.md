@@ -53,7 +53,7 @@ A study application with face recognition function(2020.10.12 ~ 2020.11.20)
 
 ## 📝개발 계획
 
-![gantt_chart](/uploads/1f8a04f392258ca5cc379aba690d4683/gantt_chart.png)
+![gantt_chart](https://github.com/OYNee/Camgong/blob/main/res/gantt_chart.png)
 
 ## 기타 정보
 
