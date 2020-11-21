@@ -31,7 +31,7 @@ A study application with face recognition function(2020.10.12 ~ 2020.11.20)
 
 ## 👀와이어프레임
 
-![wireframe](/uploads/7053b527109bfc956b161d5e3d6b12c2/wireframe.png)
+![wireframe](https://github.com/OYNee/Camgong/blob/main/res/wireframe.png)
 
 
 ## &#128640;수동 배포 방법 
